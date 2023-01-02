@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ige Ibukun.
-- 👍🏽 I’m interested in web development systems, with a particular interest in Front-End technologies.
+- 👍🏽 I’m interested in web development systems, with particular interest in Front-End technologies.
 - 🌱 I’m currently learning CSS, Javascript, and other frameworks.
 - 🤝🏽 I’m looking to collaborate on web projects with practical applications to solve modern challenges. 
 - 📩 Reach me via email at jonathan4lyf@gmail.com ...
